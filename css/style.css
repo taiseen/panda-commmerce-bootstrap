@@ -1,0 +1,21 @@
+.pada-card{
+    border: 0;
+}
+
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.panda-slider{
+    background-color: #FCEAE8;
+    border-radius: 1em;
+}
+
+.margin-bottom{
+    margin-bottom : 20px;
+}
